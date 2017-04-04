@@ -5,6 +5,9 @@
   "author": "xTECH <tech@xtech.guru>",
   "license": "MIT",
   "main": "lib/index.js",
+  "dependencies": {
+    "supertest": "^3.0.0"
+  },
   "keywords": [
     "test",
     "utils",
