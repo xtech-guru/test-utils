@@ -1,0 +1,20 @@
+{
+  "name": "@xtech-pub/test-utils",
+  "version": "1.0.0",
+  "description": "Utilities for making test writing easier and more fun.",
+  "author": "xTECH <tech@xtech.guru>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "test",
+    "utils",
+    "jasmine"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xtech-guru/test-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xtech-guru/test-utils/issues"
+  }
+}
